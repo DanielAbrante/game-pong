@@ -1,21 +1,13 @@
 <img src="img/print-readme.PNG"></img>
 
-# Overview 
+<img src="img/print-02-readme.PNG"></img>
 
-This is a project of the a game called _pong_ created in Java, use this project for your fun :happy:
+## Overview 
 
-### Instructions
+Classic game called _pong_, Have fun!
+
+## Instructions
 
 **A** / **D** - move the blue player
 
 **Arrow left** / **Arrow right** - move the red player
-
-**Novo Jogo** / New Game
-
-**Carregar** / Load
-
-**Sair** / Exit
-
-<h2 style="text-align:center;">In game</h2>
-
-<img src="img/print-02-readme.PNG"></img>
